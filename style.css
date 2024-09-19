@@ -27,8 +27,10 @@ div{
     margin: 5px;
     background: brown;
     border-radius: 5px 15px;
+    width: 720px;
 }
 .box{
     background-color: beige;
     border-radius: 0px;
+    width: 72px;
 }
