@@ -9,6 +9,7 @@ header{
     margin: 30px;
     padding: 10px;
     text-align: center;
+    width: 100%;
 }
 footer{
     border: 1px solid black;
@@ -17,6 +18,7 @@ footer{
     padding: 10px;
     text-align: center;
     background: brown;
+    width: 100%;
 }
 
 div{
@@ -27,6 +29,7 @@ div{
     margin: 5px;
     background: brown;
     border-radius: 5px 15px;
+    width: 100%;
 }
 .box{
     background-color: beige;
