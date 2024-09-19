@@ -31,18 +31,4 @@ div{
 .box{
     background-color: beige;
     border-radius: 0px;
-    margin: 0 auto;
-}
-
-@media (max-width: 768px) {
-        .item {
-            width: 45%; /* On smaller screens, items take 45% width */
-         }
-     }
-
-@media (max-width: 480px) {
-    .item {
-        width: 100%; /* On very small screens, items stack and take full width */
-        margin: 0 0 10px 0; /* Remove side margins for stacked items */
-    }
 }
