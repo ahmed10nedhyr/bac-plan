@@ -9,7 +9,7 @@ header{
     margin: 30px;
     padding: 10px;
     text-align: center;
-    width: 100%;
+    width: 500px;
 }
 footer{
     background: brown;
@@ -18,7 +18,7 @@ footer{
     margin: 30px;
     padding: 10px;
     text-align: center;
-    width: 100%;
+    width: 500px;
 }
 section{
     background: beige;
@@ -27,6 +27,8 @@ section{
     margin: 30px;
     padding: 10px;
     text-align: center;
+    width: 500px ;
+
 }
 table{
     background: brown;
