@@ -21,17 +21,15 @@ footer{
     width: 1000px;
 }
 section{
-    background: beige;
+    background: brown;
     border: 1px solid black;
     border-radius: 5px 15px;
     margin: 30px;
     padding: 10px;
     text-align: center;
-    width: 1000px ;
-
 }
 table{
-    background: brown;
+    background: beige;
     border: 2px solid black;
     background-color: beige;
 }
