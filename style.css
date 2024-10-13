@@ -1,20 +1,19 @@
 body{
-    background-color: rgb(229, 206, 129);
+    background-color: rgb(8, 18, 59);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 header,footer{
-    background: rgb(42, 67, 165);
-    color: rgb(229, 206, 129);
-    border: 1px solid black;
+    background: rgb(229, 206, 129);
+    color: rgb(8, 18, 59);
+    border: 1px solid rgb(8, 18, 59);
     border-radius: 5px 15px;
     margin: 30px;
     padding: 10px;
     text-align: center;
-    width: 1000px;
 }
 section{
-    background: rgb(42, 67, 165);
-    border: 1px solid black;
+    background: rgb(229, 206, 129);
+    border: 1px solid rgb(8, 18, 59);
     border-radius: 5px 15px;
     margin: 30px;
     padding: 10px;
@@ -22,9 +21,13 @@ section{
 }
 table{
     background: rgb(229, 206, 129);
-    border: 2px solid black;
-    background-color: rgb(229, 206, 129);
+    border: 3px solid rgb(8, 18, 59);
+    color: rgb(8, 18, 59);
+    text-align: center;
 }
-div{
-    width: 1080px;
+iframe{
+    margin-right: 20%;
+    margin-left: 20%;
+    width: 60%;
+    height: 600px;
 }
